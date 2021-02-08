@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.aceea456.chunk.css",
-    "main.js": "/static/js/main.b26370ad.chunk.js",
-    "main.js.map": "/static/js/main.b26370ad.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9adee5b9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9adee5b9.js.map",
-    "static/js/2.813b259a.chunk.js": "/static/js/2.813b259a.chunk.js",
-    "static/js/2.813b259a.chunk.js.map": "/static/js/2.813b259a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.dd680dfaae501940f4bb112cffe161b0.js": "/precache-manifest.dd680dfaae501940f4bb112cffe161b0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.aceea456.chunk.css.map": "/static/css/main.aceea456.chunk.css.map",
-    "static/js/2.813b259a.chunk.js.LICENSE.txt": "/static/js/2.813b259a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/bg.1be2d3a0.jpg",
-    "static/media/logo.png": "/static/media/logo.3795f66d.png",
-    "static/media/spinner.gif": "/static/media/spinner.235b9b3e.gif"
+    "main.css": "/breaking-bad-cast/static/css/main.b79ea2b9.chunk.css",
+    "main.js": "/breaking-bad-cast/static/js/main.17fc935a.chunk.js",
+    "main.js.map": "/breaking-bad-cast/static/js/main.17fc935a.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-cast/static/js/runtime-main.7e944a98.js",
+    "runtime-main.js.map": "/breaking-bad-cast/static/js/runtime-main.7e944a98.js.map",
+    "static/js/2.fb9a39a6.chunk.js": "/breaking-bad-cast/static/js/2.fb9a39a6.chunk.js",
+    "static/js/2.fb9a39a6.chunk.js.map": "/breaking-bad-cast/static/js/2.fb9a39a6.chunk.js.map",
+    "index.html": "/breaking-bad-cast/index.html",
+    "static/css/main.b79ea2b9.chunk.css.map": "/breaking-bad-cast/static/css/main.b79ea2b9.chunk.css.map",
+    "static/js/2.fb9a39a6.chunk.js.LICENSE.txt": "/breaking-bad-cast/static/js/2.fb9a39a6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breaking-bad-cast/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/breaking-bad-cast/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/breaking-bad-cast/static/media/spinner.11d9cde8.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.9adee5b9.js",
-    "static/js/2.813b259a.chunk.js",
-    "static/css/main.aceea456.chunk.css",
-    "static/js/main.b26370ad.chunk.js"
+    "static/js/runtime-main.7e944a98.js",
+    "static/js/2.fb9a39a6.chunk.js",
+    "static/css/main.b79ea2b9.chunk.css",
+    "static/js/main.17fc935a.chunk.js"
   ]
 }
