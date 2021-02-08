@@ -1,6 +1,12 @@
-import React from 'react';
+import { FC } from 'react';
 
-export const CharacterItem = ({ item }) => {
+import { IItem } from '../../App';
+
+interface IProps {
+  item: IItem;
+}
+
+export const CharacterItem: FC<IProps> = ({ item }) => {
   return (
     <div className='card'>
       <div className='card-inner'>

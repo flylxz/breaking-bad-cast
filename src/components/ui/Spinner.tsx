@@ -1,7 +1,6 @@
-import React from 'react';
 import spinner from '../../img/spinner.gif';
 
-export const Spinner = () => {
+export const Spinner = (): JSX.Element => {
   return (
     <img
       src={spinner}
